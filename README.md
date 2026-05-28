@@ -6,7 +6,7 @@ iRaw IPTV Player - Privacy &amp; Support
 
 For support, questions, or bug reports, please contact us:
 
-**Email:irawiptv@gmail.com
+**Email:** irawiptv@gmail.com
 
 We typically respond within 24-48 hours.
 
